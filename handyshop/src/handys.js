@@ -1,5 +1,3 @@
-
-
 const handys = [
     {Name:"Iphone 15 Pro Max", Preis:1449, img:"bilder/iPhone_15_Pro_Max_2.jpg"},
     {Name:"Samsung Galaxy S24", Preis:899, img:"bilder/images.jpeg"},
